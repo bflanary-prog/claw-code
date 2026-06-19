@@ -13,3 +13,8 @@ archive/
 status-help.txt
 # Legacy Python port session scratch artifacts
 .port_sessions/
+
+# VS Code extension build artifacts
+editors/vscode/node_modules/
+editors/vscode/out/
+editors/vscode/*.vsix
